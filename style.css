@@ -1,0 +1,29 @@
+#division1{
+    border:10px solid blue;
+    background-color: aqua;
+    background-clip: border-box;
+    padding: 50px;
+}
+#division2{
+    border: 5px dotted black;
+    background-color: purple;
+    background-clip: border-box;
+    padding: 20px;
+    
+}
+#we{
+    height: 200px;
+    width: 200px;
+    border: 2px solid green;
+}
+p{
+    margin-top: 1opx
+}
+
+#min{
+    height: 400px;
+    background-image:url(image/ocean.jpg), url(image/ocean3.jpg), url(image/Untitled.jpeg);
+    background-repeat: no-repeat;
+    background-size: 250px 350px, 250px 350px,250px 350px;
+    background-position: 0px 0px,200px 0px,400px 0px;
+}
